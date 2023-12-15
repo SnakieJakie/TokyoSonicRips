@@ -1,12 +1,24 @@
+> [!WARNING]
+> README NOT DONE
+
+
 # TokyoSonicRips
-Models rips from Sonic At The Olympic Games
+Models rips from Sonic At The Olympic Games.
+
+# What's here?
+
+
+
+| Characters | Progress
+| --------- | | --------- | 
+| Sonic | | Not done. Needs texures | 
 
 # Downloads
 
 # Q/A
 
 ### "This repo doesn't have the model I'm looking for. What gives?"
-Planning on adding more models soon. Some aren't here because I couldn't find their 
+Planning on adding more models soon. Some aren't here because I couldn't find their textures. 
 
 ### "How did you extract these models?"
 I managed to hack into SEGA's network (it was called gay porn), and grabbed the models pls dont tell them tho
@@ -21,7 +33,7 @@ In actuatulity, I first grabbed the OBB file for the game. (Should be in Android
 Yes! Go ahead. Do anything with these models. (Well, maybe not everything. You know what I mean.)
 
 ### "Do I credit you if I use these rips?"
-Nope! They're not my models after all. All I ask is if you make something cool with these models, be sure to send me it 
+Nope! They're not my models after all. All I ask is if you make something cool with these models, be sure to send it to me so I can look at it. (Well, not anything NSFW please.)
 
 ### "Github is weird to work with. Can I reupload them to the Models Resources (Or another similar site)?"
 I was going to do that but I got too lazy. So, go ahead.
