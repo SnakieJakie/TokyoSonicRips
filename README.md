@@ -18,7 +18,10 @@ In actuatulity, I first grabbed the OBB file for the game. (Should be in Android
 
 ### "Can use these for my super cool thing I'm using on?"
 ~~ABSOLUTELY NOT HOW DARE YOU EVEN THINK ABOUT DOING THAT ABSOLUTE SIN~~
-Yes! No credit needed. They're not my models, after all. 
+Yes! Go ahead. Do anything with these models. (Well, maybe not everything. You know what I mean.)
+
+### "Do I credit you if I use these rips?"
+Nope! They're not my models after all. All I ask is if you make something cool with these models, be sure to send me it 
 
 ### "Github is weird to work with. Can I reupload them to the Models Resources (Or another similar site)?"
 I was going to do that but I got too lazy. So, go ahead.
