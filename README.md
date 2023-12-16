@@ -2,30 +2,44 @@
 > README NOT DONE
 
 
-# TokyoSonicRips
-Models rips from Sonic At The Olympic Games.
+# Tokyo Sonic Rips
+Models rips from Sonic At The Olympic Games. (The mobile game)
 
 # What's here?
 
+Some of the characters. Not all of them, though.
 
+> [!CAUTION]
+> Pretty much all of the characters' eyes are not UVmapped. I'm too stupid to do that myself. If you can fix it, and want me to put your fixed version in this repo, shoot me a DM or a pull request.
 
-| Characters | Progress
-| --------- | | --------- | 
-| Sonic | | Not done. Needs texures | 
+| Character | Notes | Download |
+| --------- | ---------- | ---------- |
+| Sonic | N/A | [Download](https://raw.githubusercontent.com/SnakieJakie/TokyoSonicRips/main/Zips/Models/Characters/TokyoSonic.zip?token=GHSAT0AAAAAACBURJXMTQDK5FMQNSGNUZCSZL5HMHA) |
+| Tails | He "has" a swim version, like Sonic and Amy, but it's exactly the same as the normal version, so I didn't include it. | [Download](https://github.com/SnakieJakie/TokyoSonicRips/raw/main/Zips/Models/Characters/TokyoTails.zip) |
+| Amy | N/A | [Download](https://github.com/SnakieJakie/TokyoSonicRips/raw/main/Zips/Models/Characters/TokyoAmy.zip) |
+| Rouge | N/A | [Download](https://github.com/SnakieJakie/TokyoSonicRips/raw/main/Zips/Models/Characters/TokyoRouge.zip) |
+| Knuckles | N/A | [Download](https://github.com/SnakieJakie/TokyoSonicRips/raw/main/Zips/Models/Characters/TokyoKnuckles.zip) |
+| Chao | For some reason, they have bowties on, even though they're not Cheese. The ZIP comes with a "quest" version which looks like a plushie. No clue where it's used in-game. | [Download](https://github.com/SnakieJakie/TokyoSonicRips/raw/main/Zips/Models/Characters/TokyoChao.zip) |
 
-# Downloads
+# Roadmap
+1. The rest of the characters
+2. The items used in the events. (BMX bikes, the shotguns, bows, etc.)
+3. Probably more im tired lol
 
 # Q/A
 
 ### "This repo doesn't have the model I'm looking for. What gives?"
-Planning on adding more models soon. Some aren't here because I couldn't find their textures. 
+I'll add more models when I can. 
+
+### "What's the difference between I and M models.
+M models seem to be more blocky and less detailed than the I ones. 
 
 ### "How did you extract these models?"
 I managed to hack into SEGA's network (it was called gay porn), and grabbed the models pls dont tell them tho
 
 <details>
   <summary> </summary>
-In actuatulity, I first grabbed the OBB file for the game. (Should be in Android/obb/com.sega.tokyo/Offline). Then moved it to my PC and extracted it using 7Zip. Then did some Unity fuckey magic to extract the actual models.
+In actuatulity, I first grabbed the OBB file for the game. (Should be in Android/obb/com.sega.tokyo/Offline). Then moved it to my PC and extracted it using 7Zip. Then did some Unity fuckey magic to extract the actual models. I'm being vague because I don't want to teach people how to decompile Unity games :skull:
 </details>
 
 ### "Can use these for my super cool thing I'm using on?"
